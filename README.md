@@ -1,5 +1,5 @@
 ## About the Project  
-This project demonstrates a backend system for an ecommerce platform that handles user authentication, item management, and order processing. It uses **Spring Boot** for backend development ,the application is secured with JWT (JSON Web Tokens) using the HS512 algorithm and supports interaction through REST API client tools like **Postman**.  
+This project demonstrates a backend system for an ecommerce platform that handles user authentication, item management, and order processing. It uses Spring Boot for backend development ,the application is secured with JWT (JSON Web Tokens) using the HS512 algorithm and supports interaction through REST API client tools like **Postman**.  
 
 ### Key Features  
 - **Secure REST API**: All endpoints are secured using JWT-based authentication. JWTs are signed using the HS512 algorithm.
@@ -15,7 +15,7 @@ This project demonstrates a backend system for an ecommerce platform that handle
 ## Built With  
 - **Java 11**  
 - **Spring Boot**  
-- **JWT (JSON Web Tokens)** with **HS512 algorithm** for authentication
+- **JWT (JSON Web Tokens)** with HS512 algorithm for authentication
 - **Postman** (or similar REST API client) for testing and interaction  
 - **SLF4J LoggerFactory** for application logging
 - **Hibernate** for database interaction 
